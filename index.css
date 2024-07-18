@@ -20,7 +20,7 @@ src: url("/Fonts/CursedTimer.ttf");
 }
 
 .h3Title {
-    font-family: sans-serif;
+    font-family: arial;
     
 }
 
@@ -49,7 +49,7 @@ src: url("/Fonts/CursedTimer.ttf");
 
 
 .resetbtn{
-    font-family: sans-serif;
+    font-family: arial;
     font-weight: bold;
     text-transform: uppercase;
     background-color: #0369A1;
