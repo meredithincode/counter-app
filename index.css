@@ -49,7 +49,7 @@ src: url("/Fonts/CursedTimer.ttf");
 
 
 .resetbtn{
-    font-family: "CursedTimer";
+    font-family: "sans-serif";
     font-weight: bold;
     text-transform: uppercase;
     background-color: #0369A1;
